@@ -1,0 +1,103 @@
+/*header h1&h2 font and color*/
+header {
+    border: dotted;
+    background-color: gray;
+    color: white;
+}
+
+a {
+    font-family: Arial;
+    font-size: 24px;
+    color: white;
+}
+
+p {
+    font-family: Arial;
+    font-size: 16px;;
+    color: white;
+}
+
+
+header h1 {
+    color: #00ff00;
+    font-family: Arial;
+}
+
+header h2 {
+    color: #66eeff;
+    font-family: Georgia;
+}
+
+article {
+    border: dashed;
+    background-color: #8c60c1;
+}
+
+body {
+    background-color: #191F21;
+}
+
+.image1 {
+    height: 400px;
+    float: left;
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+
+.image2 {
+    width: 400px;
+}
+
+
+#classMenu {
+    color: white;
+}
+
+#bookMenu {
+    color: white;
+}
+
+#escape {
+    color: white;
+}
+
+
+#p1 {
+    font-family: sans-serif;
+    color: #66eeff;
+    font-size: 22px;
+}
+
+#p2 {
+    font-family: Arial;
+    color: #d8b511;
+    font-size: 22px;
+
+}
+
+#p3{
+    font-family: Arial;
+    color: #ad0075;
+    font-size: 22px;
+
+}
+
+#p4{
+    font-family: Arial;
+    color: #4930ad;
+    font-size: 22px;
+}
+
+#p5{
+    font-family: Arial;
+    color: #00b2aa;
+    font-size: 22px;
+}
+
+#p6{
+    font-family: Arial;
+    color: #666d70;
+    font-size: 22px;
+}
+
+
